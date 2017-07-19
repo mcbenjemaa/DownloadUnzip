@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/medchiheb/AndroidStudioProjects/DownloadUnzip/Download Unzip/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2d6cc39469d6d5b6996c6adc765943464dc34b0">
+        <dex dex="/home/medchiheb/AndroidStudioProjects/DownloadUnzip/app/build/intermediates/pre-dexed/release/classes_054e505a398e9f8a15c87d882af86ac33aba799a.jar" />
+    </item>
+
+</items>
